@@ -1,0 +1,39 @@
+# Business Requirement Document (BRD)
+
+## Latar Belakang
+
+Proses reservasi lapangan futsal yang masih dilakukan secara manual sering menyebabkan bentrok jadwal, kesalahan pencatatan, dan kesulitan dalam pengelolaan data pelanggan. Oleh karena itu, diperlukan sistem reservasi berbasis web untuk meningkatkan efektivitas layanan.
+
+## Stakeholder
+
+1. Pemilik Usaha Futsal
+2. Admin
+3. Pelanggan
+
+## Kebutuhan Fungsional
+
+### Pelanggan
+
+- Registrasi akun
+- Login
+- Melihat jadwal lapangan
+- Melakukan reservasi
+- Mengunggah bukti pembayaran
+- Melihat status reservasi
+
+### Admin
+
+- Login
+- Mengelola data lapangan
+- Mengelola jadwal lapangan
+- Mengelola data pelanggan
+- Memverifikasi pembayaran
+- Mengelola reservasi
+- Membuat laporan reservasi
+
+## Kebutuhan Non-Fungsional
+
+- Sistem berbasis web
+- Data tersimpan dalam database
+- Antarmuka mudah digunakan
+- Keamanan login menggunakan username dan password
