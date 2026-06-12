@@ -56,19 +56,19 @@ Proses reservasi lapangan futsal yang masih dilakukan secara manual sering menim
 
 # Entity Relationship Diagram (ERD)
 
-![ERD](images/erd.png)
+![ERD](images/ERD.png)
 
 ---
 
 # Data Flow Diagram (DFD) Level 0
 
-![DFD Level 0](images/dfd-level-0.png)
+![DFD Level 0](images/DFD-LEVEL0.png)
 
 ---
 
 # Data Flow Diagram (DFD) Level 1
 
-![DFD Level 1](images/dfd-level-1.png)
+![DFD Level 1](images/DFD-LEVEL1.png)
 
 ---
 
